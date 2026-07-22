@@ -6,43 +6,6 @@ This repository is designed for students, cybersecurity enthusiasts, SOC analyst
 
 ---
 
-# 🎯 Learning Order
-
-The tools in this repository follow a typical Blue Team workflow. You'll start with foundational command-line utilities before progressing through monitoring, detection, investigation, incident response, and automation.
-
-
-Commands & Utilities
-        ↓
-SIEM
-        ↓
-Security Onion
-        ↓
-Endpoint Detection & Response (EDR/XDR)
-        ↓
-Threat Intelligence
-        ↓
-Endpoint Telemetry & Logging
-        ↓
-Network Monitoring (IDS/IPS/NSM)
-        ↓
-Network Traffic Analysis
-        ↓
-Asset Discovery
-        ↓
-Vulnerability Management
-        ↓
-SOAR
-        ↓
-Detection Engineering
-        ↓
-Digital Forensics & Incident Response (DFIR)
-        ↓
-Incident & Case Management
-        ↓
-Analysis Utilities
-
----
-
 # 🖥️ 1. Commands & Utilities
 
 These foundational tools are used daily by SOC analysts, DFIR investigators, and detection engineers for automation, scripting, packet capture, and certificate inspection.
